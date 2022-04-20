@@ -1,9 +1,9 @@
 # Task-Manager
 Simple Workplace Task Manager.
 
-This program allows an Admin user to add new user to the program. Tasks can then be created and assigned
-to a user in the program. Tasks can be added by admin and non-admin users. All users can view all the 
-tasks and see who they are assigned to and when the task should e complete. The user is also provided
+This program allows an Admin user to add new users to the program. Tasks can then be created and assigned
+to the users in the program. Tasks can be added by admin and non-admin users. All users can view all the 
+tasks and see who they are assigned to and when the task should be complete. The user is also provided
 with an option to show only the task assigned to their username.
 
 This program is suitable for companies that assign different tasks to different staff members and provides
