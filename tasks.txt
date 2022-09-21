@@ -1,0 +1,5 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+Gert, Install windows, Install windows for new PCs, 13 Mar 2022, 20 Apr 2022, No
+pieter, Clean bathroom, Mop floors and wash basins, 13 Mar 2022, 14 Mar 2022, No
+pieter, Clean warehouse, Sweep floors and put away all tools, 13 Mar 2022, 14 Mar 2022, No
